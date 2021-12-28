@@ -1,0 +1,29 @@
+----------------------------------------------------------------
+Tue Dec 28 23:52:41 MSK 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017e-02d1-0909-0000082bb970 
+on database directory C:\Users\micke\Desktop\WebService1s\1cdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6f94fa3e 
+Loaded from file:/C:/Users/micke/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17+35-LTS-2724
+user.dir=C:\Users\micke\Desktop\WebService1s
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Dec 28 23:52:43 MSK 2021:
+Shutting down instance a816c00e-017e-02d1-0909-0000082bb970 on database directory C:\Users\micke\Desktop\WebService1s\1cdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6f94fa3e 
+----------------------------------------------------------------
+Tue Dec 28 23:52:44 MSK 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance b9810038-017e-02d1-0909-0000082bb970 
+on database directory C:\Users\micke\Desktop\WebService1s\1cdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6f94fa3e 
+Loaded from file:/C:/Users/micke/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17+35-LTS-2724
+user.dir=C:\Users\micke\Desktop\WebService1s
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

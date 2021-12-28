@@ -1,0 +1,51 @@
+databaseChangeLog:
+  - logicalFilePath: db/changelog/db.changelog-testtask.yaml
+  - changeSet:
+      id: 1
+      author: sillyseal
+      changes:
+        - createTable:
+            tableName: nomenclature
+            columns:
+              - column:
+                  name: code
+                  type: varchar(100)
+                  constraints:
+                    primaryKey: true
+                    nullable: false
+              - column:
+                  name: name
+                  type: varchar(100)
+                  constraints:
+                    primaryKey: false
+                    nullable: true
+              - column:
+                  name: type
+                  type: varchar(100)
+                  constraints:
+                    nullable: true
+              - column:
+                  name: producer
+                  type: varchar(100)
+                  constraints:
+                    nullable: true
+              - column:
+                  name: price
+                  type: bigint
+                  constraints:
+                    nullable: true
+              - column:
+                  name: unit
+                  type: varchar(100)
+                  constraints:
+                    nullable: true
+              - column:
+                  name: description
+                  type: varchar(255)
+                  constraints:
+                    nullable: true
+              - column:
+                  name: barcode
+                  type: varchar(100)
+                  constraints:
+                    nullable: true
